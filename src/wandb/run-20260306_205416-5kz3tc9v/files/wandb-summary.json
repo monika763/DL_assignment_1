@@ -1,1 +1,0 @@
-{"_step":10,"final_train_loss":0.010685901939309163,"_wandb":{"runtime":69},"optimizer":"adam","_runtime":69.9688158,"_timestamp":1.7728107295320718e+09,"train/loss":0.010685901939309163,"architecture":"3_hidden_layers_x_128_neurons_relu","final_val_loss":0.1053721568011368,"val/loss":0.1053721568011368,"epoch":10}

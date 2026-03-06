@@ -1,8 +1,0 @@
-Traceback (most recent call last):
-  File "C:\Users\moni9\OneDrive\Desktop\DL\da6401_assignment_1\src\Dead_Neuron_Investigation.py", line 199, in <module>
-    summarize(args)
-    ~~~~~~~~~^^^^^^
-  File "C:\Users\moni9\OneDrive\Desktop\DL\da6401_assignment_1\src\Dead_Neuron_Investigation.py", line 192, in summarize
-    log_to_wandb(seed=seed, relu=relu, tanh=tanh, hidden_layers=args.hidden_layers)
-    ^^^^^^^^^^^^
-NameError: name 'log_to_wandb' is not defined
