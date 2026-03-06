@@ -1,0 +1,16 @@
+{"time":"2026-02-26T23:19:45.2692246+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-02-26T23:19:45.6725241+05:30","level":"INFO","msg":"stream: created new stream","id":"vzch2dip"}
+{"time":"2026-02-26T23:19:45.6725241+05:30","level":"INFO","msg":"handler: started","stream_id":"vzch2dip"}
+{"time":"2026-02-26T23:19:45.6754144+05:30","level":"INFO","msg":"stream: started","id":"vzch2dip"}
+{"time":"2026-02-26T23:19:45.6762968+05:30","level":"INFO","msg":"sender: started","stream_id":"vzch2dip"}
+{"time":"2026-02-26T23:19:45.6762968+05:30","level":"INFO","msg":"writer: started","stream_id":"vzch2dip"}
+{"time":"2026-02-26T23:20:57.0105101+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-02-26T23:21:11.1855174+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/ma24m016-institution/mnist-ann/vzch2dip/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-02-26T23:21:11.1855174+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-02-26T23:21:11.1855174+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-02-26T23:21:17.6258348+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-26T23:21:18.1705417+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-26T23:21:18.1760047+05:30","level":"INFO","msg":"stream: closing","id":"vzch2dip"}
+{"time":"2026-02-26T23:21:18.1760047+05:30","level":"INFO","msg":"handler: closed","stream_id":"vzch2dip"}
+{"time":"2026-02-26T23:21:18.1813697+05:30","level":"INFO","msg":"sender: closed","stream_id":"vzch2dip"}
+{"time":"2026-02-26T23:21:18.1819088+05:30","level":"INFO","msg":"stream: closed","id":"vzch2dip"}

@@ -1,0 +1,1 @@
+{"final_val_accuracy":0.8985,"gen_gap_train_minus_test":0.04968148148148155,"config_index":21,"_runtime":16845.5102187,"test_loss":0.3403182074620639,"test_accuracy":0.8883,"_step":21,"final_train_accuracy":0.9379814814814815,"_timestamp":1.772786066801065e+09,"config_name":"cfg3_4x512_tanh_nesterov_xavier_run21","_wandb":{"runtime":16845}}

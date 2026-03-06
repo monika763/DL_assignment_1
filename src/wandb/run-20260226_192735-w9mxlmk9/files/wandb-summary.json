@@ -1,0 +1,1 @@
+{"architecture":"3_hidden_layers_x_128_neurons_relu","train/loss":0.3376947594542506,"_wandb":{"runtime":38},"_timestamp":1.7721142967981179e+09,"epoch":10,"final_train_loss":0.3376947594542506,"_step":10,"val/loss":0.35595977628087627,"final_val_loss":0.35595977628087627,"_runtime":38.4258492,"optimizer":"momentum"}

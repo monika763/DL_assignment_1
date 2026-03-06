@@ -1,0 +1,15 @@
+{"time":"2026-02-27T02:02:03.1654437+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-02-27T02:02:03.5953836+05:30","level":"INFO","msg":"stream: created new stream","id":"qa02mwbe"}
+{"time":"2026-02-27T02:02:03.5958949+05:30","level":"INFO","msg":"handler: started","stream_id":"qa02mwbe"}
+{"time":"2026-02-27T02:02:03.5991608+05:30","level":"INFO","msg":"stream: started","id":"qa02mwbe"}
+{"time":"2026-02-27T02:02:03.5991608+05:30","level":"INFO","msg":"writer: started","stream_id":"qa02mwbe"}
+{"time":"2026-02-27T02:02:03.5991608+05:30","level":"INFO","msg":"sender: started","stream_id":"qa02mwbe"}
+{"time":"2026-02-27T02:16:33.8913628+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/ma24m016-institution/mnist-ann/qa02mwbe/file_stream\": write tcp 10.22.60.146:57175->35.186.228.49:443: wsasend: An existing connection was forcibly closed by the remote host."}
+{"time":"2026-02-27T03:08:22.3491081+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/ma24m016-institution/mnist-ann/qa02mwbe/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-02-27T03:08:24.5481087+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/ma24m016-institution/mnist-ann/qa02mwbe/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-02-27T07:14:44.2426499+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-27T07:14:44.6451984+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-27T07:14:44.6505333+05:30","level":"INFO","msg":"stream: closing","id":"qa02mwbe"}
+{"time":"2026-02-27T07:14:44.6505333+05:30","level":"INFO","msg":"handler: closed","stream_id":"qa02mwbe"}
+{"time":"2026-02-27T07:14:44.671421+05:30","level":"INFO","msg":"sender: closed","stream_id":"qa02mwbe"}
+{"time":"2026-02-27T07:14:44.671421+05:30","level":"INFO","msg":"stream: closed","id":"qa02mwbe"}

@@ -1,0 +1,93 @@
+_wandb:
+    value:
+        cli_version: 0.25.0
+        e:
+            4i0m9t8ae3rocrswcwzsq5qwvyo2zgzv:
+                args:
+                    - --run_sweep
+                    - --sweep_config
+                    - sweep_config.yaml
+                    - --sweep_count
+                    - "100"
+                    - --wandb_project
+                    - mnist-ann
+                    - --wandb_mode
+                    - online
+                codePath: src\train.py
+                codePathLocal: train.py
+                cpu_count: 10
+                cpu_count_logical: 12
+                disk:
+                    /:
+                        total: "493026799616"
+                        used: "204492947456"
+                email: ma24m016@smail.iitm.ac.in
+                executable: C:\Users\moni9\AppData\Local\Programs\Python\Python313\python.exe
+                git:
+                    commit: 2147189c7e3b7a8b7affcc81af74bda20ebab94d
+                    remote: https://github.com/monika763/da6401_assignment_1
+                host: LAPTOP-UQ1P4DOI
+                memory:
+                    total: "16847933440"
+                os: Windows-11-10.0.26200-SP0
+                program: C:\Users\moni9\OneDrive\Desktop\DL\da6401_assignment_1\src\train.py
+                python: CPython 3.13.3
+                root: C:\Users\moni9\OneDrive\Desktop\DL\da6401_assignment_1\src
+                startedAt: "2026-02-26T18:36:21.770904Z"
+                writerId: 4i0m9t8ae3rocrswcwzsq5qwvyo2zgzv
+        m: []
+        python_version: 3.13.3
+        t:
+            "1":
+                - 2
+                - 3
+                - 5
+                - 49
+                - 53
+            "2":
+                - 2
+                - 3
+                - 5
+                - 49
+                - 53
+            "3":
+                - 2
+                - 14
+                - 61
+                - 62
+            "4": 3.13.3
+            "5": 0.25.0
+            "8":
+                - 3
+            "12": 0.25.0
+            "13": windows-amd64
+activation_function:
+    value: tanh
+batch_size:
+    value: 128
+dataset:
+    value: mnist
+epochs:
+    value: 10
+initialization_method:
+    value: xavier
+input_dim:
+    value: 784
+learning_rate:
+    value: 0.003
+num_hidden_layers:
+    value: 3
+num_neurons:
+    value: "64"
+num_neurons_resolved:
+    value: "64"
+optimizer:
+    value: momentum
+output_dim:
+    value: 10
+random_seed:
+    value: 123
+val_ratio:
+    value: 0.1
+weight_decay:
+    value: 0.001

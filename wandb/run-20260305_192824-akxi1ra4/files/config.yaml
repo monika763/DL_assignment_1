@@ -1,0 +1,108 @@
+_wandb:
+    value:
+        cli_version: 0.25.0
+        e:
+            plcajoft7eizckly9z5b1xg35vsnorgh:
+                args:
+                    - --entity
+                    - ma24m016-institution
+                    - --project
+                    - mnist-ann
+                    - --metric_key
+                    - test/accuracy
+                    - --out_dir
+                    - src\models
+                    - --log_to_wandb
+                    - --log_project
+                    - mnist-ann
+                    - --log_run_name
+                    - q2_8_error_analysis
+                    - --wandb_mode
+                    - online
+                codePath: src\Error_Analysis.py
+                codePathLocal: src\Error_Analysis.py
+                cpu_count: 10
+                cpu_count_logical: 12
+                disk:
+                    /:
+                        total: "493026799616"
+                        used: "207722414080"
+                email: ma24m016@smail.iitm.ac.in
+                executable: C:\Users\moni9\AppData\Local\Programs\Python\Python313\python.exe
+                git:
+                    commit: 2147189c7e3b7a8b7affcc81af74bda20ebab94d
+                    remote: https://github.com/monika763/da6401_assignment_1
+                host: LAPTOP-UQ1P4DOI
+                memory:
+                    total: "16847933440"
+                os: Windows-11-10.0.26200-SP0
+                program: C:\Users\moni9\OneDrive\Desktop\DL\da6401_assignment_1\src\Error_Analysis.py
+                python: CPython 3.13.3
+                root: C:\Users\moni9\OneDrive\Desktop\DL\da6401_assignment_1
+                startedAt: "2026-03-05T13:58:24.911329Z"
+                writerId: plcajoft7eizckly9z5b1xg35vsnorgh
+        m: []
+        python_version: 3.13.3
+        t:
+            "1":
+                - 2
+                - 3
+                - 5
+                - 49
+                - 53
+            "2":
+                - 2
+                - 3
+                - 5
+                - 49
+                - 53
+            "3":
+                - 2
+                - 13
+                - 16
+                - 62
+            "4": 3.13.3
+            "5": 0.25.0
+            "8":
+                - 3
+            "12": 0.25.0
+            "13": windows-amd64
+        visualize:
+            q2_8/confusion_matrix_plot:
+                panel_config:
+                    fieldSettings:
+                        Actual: Actual
+                        Predicted: Predicted
+                        nPredictions: nPredictions
+                    panelDefId: wandb/confusion_matrix/v1
+                    stringSettings:
+                        title: Confusion Matrix Curve
+                    transform:
+                        name: tableWithLeafColNames
+                    userQuery:
+                        queryFields:
+                            - args:
+                                - name: runSets
+                                  value: ${runSets}
+                              fields:
+                                - fields: []
+                                  name: id
+                                - fields: []
+                                  name: name
+                                - fields: []
+                                  name: _defaultColorIndex
+                                - args:
+                                    - name: tableKey
+                                      value: q2_8/confusion_matrix_plot_table
+                                  fields: []
+                                  name: summaryTable
+                              name: runSets
+                panel_type: Vega2
+best_run_id:
+    value: j3zc5ew4
+best_run_name:
+    value: valiant-sweep-55
+metric_key:
+    value: test/accuracy
+source_project:
+    value: mnist-ann

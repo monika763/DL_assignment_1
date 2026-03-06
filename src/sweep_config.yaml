@@ -1,0 +1,30 @@
+program: train.py
+method: bayes
+metric:
+  name: val/accuracy
+  goal: maximize
+parameters:
+  dataset:
+    values: ["mnist"]
+  num_hidden_layers:
+    values: [2, 3, 4]
+  num_neurons:
+    values: ["64", "128", "256", "512"]
+  initialization_method:
+    values: ["xavier", "he", "normal"]
+  activation_function:
+    values: ["relu", "tanh", "sigmoid"]
+  optimizer:
+    values: ["sgd", "momentum", "nesterov", "rmsprop", "adam", "nadam"]
+  learning_rate:
+    values: [0.0005, 0.001, 0.003, 0.01]
+  batch_size:
+    values: [32, 64, 128]
+  epochs:
+    values: [5, 10, 15]
+  weight_decay:
+    values: [0.0, 0.0001, 0.0005, 0.001]
+  val_ratio:
+    value: 0.1
+  random_seed:
+    values: [7, 42, 123]

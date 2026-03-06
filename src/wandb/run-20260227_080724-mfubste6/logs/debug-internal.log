@@ -1,0 +1,12 @@
+{"time":"2026-02-27T08:07:26.7061835+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-02-27T08:07:27.1372722+05:30","level":"INFO","msg":"stream: created new stream","id":"mfubste6"}
+{"time":"2026-02-27T08:07:27.1380213+05:30","level":"INFO","msg":"handler: started","stream_id":"mfubste6"}
+{"time":"2026-02-27T08:07:27.1420841+05:30","level":"INFO","msg":"stream: started","id":"mfubste6"}
+{"time":"2026-02-27T08:07:27.1436329+05:30","level":"INFO","msg":"writer: started","stream_id":"mfubste6"}
+{"time":"2026-02-27T08:07:27.1436329+05:30","level":"INFO","msg":"sender: started","stream_id":"mfubste6"}
+{"time":"2026-02-27T08:10:27.2196249+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-27T08:10:27.5826876+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-27T08:10:27.5894347+05:30","level":"INFO","msg":"stream: closing","id":"mfubste6"}
+{"time":"2026-02-27T08:10:27.5894347+05:30","level":"INFO","msg":"handler: closed","stream_id":"mfubste6"}
+{"time":"2026-02-27T08:10:27.59262+05:30","level":"INFO","msg":"sender: closed","stream_id":"mfubste6"}
+{"time":"2026-02-27T08:10:27.5931943+05:30","level":"INFO","msg":"stream: closed","id":"mfubste6"}

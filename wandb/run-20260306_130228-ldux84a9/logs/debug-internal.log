@@ -1,0 +1,12 @@
+{"time":"2026-03-06T13:02:31.2159426+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-03-06T13:02:31.6875297+05:30","level":"INFO","msg":"stream: created new stream","id":"ldux84a9"}
+{"time":"2026-03-06T13:02:31.6875297+05:30","level":"INFO","msg":"handler: started","stream_id":"ldux84a9"}
+{"time":"2026-03-06T13:02:31.6899754+05:30","level":"INFO","msg":"stream: started","id":"ldux84a9"}
+{"time":"2026-03-06T13:02:31.6899754+05:30","level":"INFO","msg":"sender: started","stream_id":"ldux84a9"}
+{"time":"2026-03-06T13:02:31.6899754+05:30","level":"INFO","msg":"writer: started","stream_id":"ldux84a9"}
+{"time":"2026-03-06T13:03:31.5551721+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-03-06T13:03:33.2095674+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-03-06T13:03:33.2178876+05:30","level":"INFO","msg":"stream: closing","id":"ldux84a9"}
+{"time":"2026-03-06T13:03:33.2178876+05:30","level":"INFO","msg":"handler: closed","stream_id":"ldux84a9"}
+{"time":"2026-03-06T13:03:33.2234939+05:30","level":"INFO","msg":"sender: closed","stream_id":"ldux84a9"}
+{"time":"2026-03-06T13:03:33.2234939+05:30","level":"INFO","msg":"stream: closed","id":"ldux84a9"}

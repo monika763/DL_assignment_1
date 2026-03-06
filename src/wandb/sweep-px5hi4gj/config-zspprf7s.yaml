@@ -1,0 +1,24 @@
+wandb_version: 1
+
+activation:
+  value: sigmoid
+batch_size:
+  value: 64
+dataset:
+  value: mnist
+epochs:
+  value: 10
+initialization:
+  value: zeros
+learning_rate:
+  value: 0.001
+loss_function:
+  value: cross_entropy
+num_hidden_layers:
+  value: 7
+num_neurons:
+  value: 64
+optimizer:
+  value: rmsprop
+weight_decay:
+  value: 0

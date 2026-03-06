@@ -1,0 +1,18 @@
+Training config=L2_N128, activation=relu, optimizer=adam
+Training config=L2_N128, activation=sigmoid, optimizer=adam
+[34m[1mwandb[0m: [33mWARNING[0m Tried to log to step 1 that is less than the current step 10. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+[34m[1mwandb[0m: [33mWARNING[0m Tried to log to step 2 that is less than the current step 10. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+[34m[1mwandb[0m: [33mWARNING[0m Tried to log to step 3 that is less than the current step 10. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+[34m[1mwandb[0m: [33mWARNING[0m Tried to log to step 4 that is less than the current step 10. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+[34m[1mwandb[0m: [33mWARNING[0m Tried to log to step 5 that is less than the current step 10. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+[34m[1mwandb[0m: [33mWARNING[0m Tried to log to step 6 that is less than the current step 10. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+[34m[1mwandb[0m: [33mWARNING[0m Tried to log to step 7 that is less than the current step 10. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+[34m[1mwandb[0m: [33mWARNING[0m Tried to log to step 8 that is less than the current step 10. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+[34m[1mwandb[0m: [33mWARNING[0m Tried to log to step 9 that is less than the current step 10. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Training config=L3_N128, activation=relu, optimizer=adam
+Training config=L3_N128, activation=sigmoid, optimizer=adam
+Training config=L5_N128, activation=relu, optimizer=adam
+Training config=L5_N128, activation=sigmoid, optimizer=adam
+W&B run: https://wandb.ai/ma24m016-institution/mnist-ann/runs/oojnux9y
+Plot saved: C:\Users\moni9\OneDrive\Desktop\DL\da6401_assignment_1\src\activation_grad_norms.png
+Observation: No clear vanishing-gradient signal in this run.

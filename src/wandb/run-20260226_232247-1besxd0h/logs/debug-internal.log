@@ -1,0 +1,14 @@
+{"time":"2026-02-26T23:22:49.3086894+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-02-26T23:22:49.7656331+05:30","level":"INFO","msg":"stream: created new stream","id":"1besxd0h"}
+{"time":"2026-02-26T23:22:49.7656331+05:30","level":"INFO","msg":"handler: started","stream_id":"1besxd0h"}
+{"time":"2026-02-26T23:22:49.7678052+05:30","level":"INFO","msg":"stream: started","id":"1besxd0h"}
+{"time":"2026-02-26T23:22:49.7678052+05:30","level":"INFO","msg":"sender: started","stream_id":"1besxd0h"}
+{"time":"2026-02-26T23:22:49.7678052+05:30","level":"INFO","msg":"writer: started","stream_id":"1besxd0h"}
+{"time":"2026-02-26T23:23:36.3613899+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/ma24m016-institution/mnist-ann/1besxd0h/file_stream\": read tcp 10.22.60.146:62484->35.186.228.49:443: wsarecv: An established connection was aborted by the software in your host machine."}
+{"time":"2026-02-26T23:26:09.6950466+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/ma24m016-institution/mnist-ann/1besxd0h/file_stream\": read tcp 10.45.23.153:50756->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2026-02-26T23:26:50.6860141+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-26T23:26:51.7003777+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-26T23:26:51.7072699+05:30","level":"INFO","msg":"stream: closing","id":"1besxd0h"}
+{"time":"2026-02-26T23:26:51.7072699+05:30","level":"INFO","msg":"handler: closed","stream_id":"1besxd0h"}
+{"time":"2026-02-26T23:26:51.7123148+05:30","level":"INFO","msg":"sender: closed","stream_id":"1besxd0h"}
+{"time":"2026-02-26T23:26:51.7123148+05:30","level":"INFO","msg":"stream: closed","id":"1besxd0h"}

@@ -1,0 +1,6 @@
+wandb_version: 1
+
+loss_function:
+  value: cross_entropy_loss
+seed:
+  value: 42

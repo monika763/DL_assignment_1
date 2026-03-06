@@ -1,0 +1,12 @@
+{"time":"2026-02-26T23:29:52.8252168+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-02-26T23:29:53.2522094+05:30","level":"INFO","msg":"stream: created new stream","id":"ucf2ctnp"}
+{"time":"2026-02-26T23:29:53.2529604+05:30","level":"INFO","msg":"handler: started","stream_id":"ucf2ctnp"}
+{"time":"2026-02-26T23:29:53.2567028+05:30","level":"INFO","msg":"stream: started","id":"ucf2ctnp"}
+{"time":"2026-02-26T23:29:53.2567028+05:30","level":"INFO","msg":"sender: started","stream_id":"ucf2ctnp"}
+{"time":"2026-02-26T23:29:53.2567028+05:30","level":"INFO","msg":"writer: started","stream_id":"ucf2ctnp"}
+{"time":"2026-02-26T23:36:27.9425146+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-26T23:36:28.421184+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-26T23:36:28.4247513+05:30","level":"INFO","msg":"stream: closing","id":"ucf2ctnp"}
+{"time":"2026-02-26T23:36:28.4247513+05:30","level":"INFO","msg":"handler: closed","stream_id":"ucf2ctnp"}
+{"time":"2026-02-26T23:36:28.4296108+05:30","level":"INFO","msg":"sender: closed","stream_id":"ucf2ctnp"}
+{"time":"2026-02-26T23:36:28.4296108+05:30","level":"INFO","msg":"stream: closed","id":"ucf2ctnp"}

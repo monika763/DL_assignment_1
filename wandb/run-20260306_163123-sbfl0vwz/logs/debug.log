@@ -1,0 +1,23 @@
+2026-03-06 16:31:23,531 INFO    MainThread:43108 [wandb_init.py:setup_run_log_directory():717] Logging user logs to C:\Users\moni9\OneDrive\Desktop\DL\da6401_assignment_1\wandb\run-20260306_163123-sbfl0vwz\logs\debug.log
+2026-03-06 16:31:23,531 INFO    MainThread:43108 [wandb_init.py:setup_run_log_directory():718] Logging internal logs to C:\Users\moni9\OneDrive\Desktop\DL\da6401_assignment_1\wandb\run-20260306_163123-sbfl0vwz\logs\debug-internal.log
+2026-03-06 16:31:23,531 INFO    MainThread:43108 [wandb_init.py:init():844] calling init triggers
+2026-03-06 16:31:23,532 INFO    MainThread:43108 [wandb_init.py:init():849] wandb.init called with sweep_config: {}
+config: {'dataset': 'fashion_mnist', 'num_hidden_layers': 4, 'num_neurons': '128', 'initialization_method': 'he', 'activation_function': 'relu', 'optimizer': 'nestrov', 'learning_rate': 0.01, 'epochs': 10, 'batch_size': 128, 'weight_decay': 0.0001, 'val_ratio': 0.1, 'random_seed': 42, '_wandb': {}}
+2026-03-06 16:31:23,532 INFO    MainThread:43108 [wandb_init.py:init():892] starting backend
+2026-03-06 16:31:23,532 INFO    MainThread:43108 [wandb_init.py:init():895] sending inform_init request
+2026-03-06 16:31:23,534 INFO    MainThread:43108 [wandb_init.py:init():903] backend started and connected
+2026-03-06 16:31:23,536 INFO    MainThread:43108 [wandb_init.py:init():973] updated telemetry
+2026-03-06 16:31:23,574 INFO    MainThread:43108 [wandb_init.py:init():997] communicating run to backend with 90.0 second timeout
+2026-03-06 16:31:26,751 INFO    MainThread:43108 [wandb_init.py:init():1042] starting run threads in backend
+2026-03-06 16:31:26,884 INFO    MainThread:43108 [wandb_run.py:_console_start():2524] atexit reg
+2026-03-06 16:31:26,884 INFO    MainThread:43108 [wandb_run.py:_redirect():2373] redirect: wrap_raw
+2026-03-06 16:31:26,884 INFO    MainThread:43108 [wandb_run.py:_redirect():2442] Wrapping output streams.
+2026-03-06 16:31:26,884 INFO    MainThread:43108 [wandb_run.py:_redirect():2465] Redirects installed.
+2026-03-06 16:31:26,885 INFO    MainThread:43108 [wandb_init.py:init():1082] run started, returning control to user process
+2026-03-06 16:31:26,886 INFO    MainThread:43108 [wandb_run.py:_config_callback():1403] config_cb None None {'dataset': 'fashion_mnist', 'num_hidden_layers': 4, 'num_neurons': '128', 'initialization_method': 'he', 'activation_function': 'relu', 'optimizer': 'nestrov', 'learning_rate': 0.01, 'epochs': 10, 'batch_size': 128, 'weight_decay': 0.0001, 'val_ratio': 0.1, 'random_seed': 42}
+2026-03-06 16:31:27,390 INFO    MainThread:43108 [wandb_run.py:_config_callback():1403] config_cb None None {'input_dim': 784, 'output_dim': 10, 'num_neurons_resolved': '128'}
+2026-03-06 16:32:11,023 INFO    MainThread:43108 [wandb_run.py:_finish():2291] finishing run ma24m016-institution/mnist-ann/sbfl0vwz
+2026-03-06 16:32:11,024 INFO    MainThread:43108 [wandb_run.py:_atexit_cleanup():2490] got exitcode: 0
+2026-03-06 16:32:11,025 INFO    MainThread:43108 [wandb_run.py:_restore():2472] restore
+2026-03-06 16:32:11,025 INFO    MainThread:43108 [wandb_run.py:_restore():2478] restore done
+2026-03-06 16:32:13,679 INFO    MainThread:43108 [wandb_run.py:_footer_sync_info():3868] logging synced files

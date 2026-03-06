@@ -1,0 +1,12 @@
+Epoch 1/10 train_loss=0.4849 train_acc=0.8080
+Epoch 2/10 train_loss=0.3782 train_acc=0.8545
+Epoch 3/10 train_loss=0.3575 train_acc=0.8684
+Epoch 4/10 train_loss=0.3193 train_acc=0.8828
+Epoch 5/10 train_loss=0.3276 train_acc=0.8771
+Epoch 6/10 train_loss=0.3200 train_acc=0.8831
+Epoch 7/10 train_loss=0.3099 train_acc=0.8827
+Epoch 8/10 train_loss=0.3124 train_acc=0.8864
+Epoch 9/10 train_loss=0.2989 train_acc=0.8877
+Epoch 10/10 train_loss=0.2782 train_acc=0.8939
+Test loss: 0.3647
+Test accuracy: 0.8721

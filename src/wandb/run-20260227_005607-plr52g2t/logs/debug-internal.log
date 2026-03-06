@@ -1,0 +1,13 @@
+{"time":"2026-02-27T00:56:09.6131709+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-02-27T00:56:14.0452226+05:30","level":"INFO","msg":"stream: created new stream","id":"plr52g2t"}
+{"time":"2026-02-27T00:56:14.0457984+05:30","level":"INFO","msg":"handler: started","stream_id":"plr52g2t"}
+{"time":"2026-02-27T00:56:14.0479749+05:30","level":"INFO","msg":"stream: started","id":"plr52g2t"}
+{"time":"2026-02-27T00:56:14.0479749+05:30","level":"INFO","msg":"writer: started","stream_id":"plr52g2t"}
+{"time":"2026-02-27T00:56:14.0479749+05:30","level":"INFO","msg":"sender: started","stream_id":"plr52g2t"}
+{"time":"2026-02-27T00:56:14.7103643+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.22.60.146:58079->35.186.228.49:443: wsarecv: An established connection was aborted by the software in your host machine."}
+{"time":"2026-02-27T00:57:34.1672307+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-27T00:57:34.5533459+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-27T00:57:34.556862+05:30","level":"INFO","msg":"stream: closing","id":"plr52g2t"}
+{"time":"2026-02-27T00:57:34.556862+05:30","level":"INFO","msg":"handler: closed","stream_id":"plr52g2t"}
+{"time":"2026-02-27T00:57:34.5624343+05:30","level":"INFO","msg":"sender: closed","stream_id":"plr52g2t"}
+{"time":"2026-02-27T00:57:34.5624343+05:30","level":"INFO","msg":"stream: closed","id":"plr52g2t"}

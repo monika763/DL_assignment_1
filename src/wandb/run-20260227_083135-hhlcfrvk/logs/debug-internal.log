@@ -1,0 +1,12 @@
+{"time":"2026-02-27T08:31:37.7515513+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-02-27T08:31:38.1835316+05:30","level":"INFO","msg":"stream: created new stream","id":"hhlcfrvk"}
+{"time":"2026-02-27T08:31:38.1835316+05:30","level":"INFO","msg":"handler: started","stream_id":"hhlcfrvk"}
+{"time":"2026-02-27T08:31:38.1868791+05:30","level":"INFO","msg":"stream: started","id":"hhlcfrvk"}
+{"time":"2026-02-27T08:31:38.1868791+05:30","level":"INFO","msg":"sender: started","stream_id":"hhlcfrvk"}
+{"time":"2026-02-27T08:31:38.1868791+05:30","level":"INFO","msg":"writer: started","stream_id":"hhlcfrvk"}
+{"time":"2026-02-27T08:32:09.3678252+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-27T08:32:09.7284327+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-27T08:32:09.7345962+05:30","level":"INFO","msg":"stream: closing","id":"hhlcfrvk"}
+{"time":"2026-02-27T08:32:09.7345962+05:30","level":"INFO","msg":"handler: closed","stream_id":"hhlcfrvk"}
+{"time":"2026-02-27T08:32:09.7545932+05:30","level":"INFO","msg":"sender: closed","stream_id":"hhlcfrvk"}
+{"time":"2026-02-27T08:32:09.7545932+05:30","level":"INFO","msg":"stream: closed","id":"hhlcfrvk"}

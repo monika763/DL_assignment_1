@@ -1,0 +1,32 @@
+{
+  "os":  "Windows-11-10.0.26200-SP0",
+  "python":  "CPython 3.13.3",
+  "startedAt":  "2026-03-06T15:13:59.378913Z",
+  "args":  [
+    "--wandb_project",
+    "mnist-ann"
+  ],
+  "program":  "C:\\Users\\moni9\\OneDrive\\Desktop\\DL\\da6401_assignment_1\\src\\run_compare.py",
+  "codePath":  "src\\run_compare.py",
+  "codePathLocal":  "run_compare.py",
+  "git":  {
+    "remote":  "https://github.com/monika763/da6401_assignment_1",
+    "commit":  "2147189c7e3b7a8b7affcc81af74bda20ebab94d"
+  },
+  "email":  "ma24m016@smail.iitm.ac.in",
+  "root":  "C:\\Users\\moni9\\OneDrive\\Desktop\\DL\\da6401_assignment_1\\src",
+  "host":  "LAPTOP-UQ1P4DOI",
+  "executable":  "C:\\Users\\moni9\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+  "cpu_count":  10,
+  "cpu_count_logical":  12,
+  "disk":  {
+    "/":  {
+      "total":  "493026799616",
+      "used":  "209248051200"
+    }
+  },
+  "memory":  {
+    "total":  "16847933440"
+  },
+  "writerId":  "egwbbw8c5txzi54zbdozamq3my6wccee"
+}
